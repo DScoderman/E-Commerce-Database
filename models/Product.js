@@ -43,7 +43,7 @@ Product.init(
       // TODO: ADD reference to category model ID
       allowNull: true,
       references: {
-        model: 'Category',
+        model: 'category',
         key: 'id',
       },
     }
