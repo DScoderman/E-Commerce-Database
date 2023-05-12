@@ -27,5 +27,7 @@ followed by the command "node server.js" (to get the local port listening). To s
 
 Using the MIT license, so go for it!
 
+## Additional notes
 
+Link to repo:  https://github.com/DScoderman/E-Commerce-Database/tree/main
 
