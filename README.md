@@ -11,7 +11,7 @@ While the JSON packages come with the code created, you'll need to download inso
 
 To install the JSON packages, right click on the server.js file on the very bottom of the file explorer and click "open in integrated terminal". From there, click inside the terminal and run the command "npm i". This will install all packages used in the code.
 
-You will also need to set up a mySQL account and have that software installed on your computer. To do that, best refer the [Insomnia documentation](https://docs.insomnia.rest/)
+You will also need to set up a mySQL account and have that software installed on your computer. To do that, best refer to the [Insomnia documentation.](https://docs.insomnia.rest/)
 
 ## Usage. 
 
